@@ -302,6 +302,3 @@ stargazer(modele1, modele2, modele3, modele4, modele5, modele6, modele7,
           dep.var.caption = "Dependent variable: RV of ETH on each exchange",
           covariate.labels = c("FTX MedRV", "FTX Jump Days", "Active Supply"),
           title = "Regression Results for ETH Realized Volatility Across Exchanges")
-
-
-
